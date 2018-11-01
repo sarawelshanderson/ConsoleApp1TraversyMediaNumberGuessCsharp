@@ -1,0 +1,6 @@
+C:\Users\Sara Rena Anderson\source\repos\ConsoleApp2TraversyMediaNumGuess\ConsoleApp2TraversyMediaNumGuess\bin\Debug\ConsoleApp2TraversyMediaNumGuess.exe.config
+C:\Users\Sara Rena Anderson\source\repos\ConsoleApp2TraversyMediaNumGuess\ConsoleApp2TraversyMediaNumGuess\bin\Debug\ConsoleApp2TraversyMediaNumGuess.exe
+C:\Users\Sara Rena Anderson\source\repos\ConsoleApp2TraversyMediaNumGuess\ConsoleApp2TraversyMediaNumGuess\bin\Debug\ConsoleApp2TraversyMediaNumGuess.pdb
+C:\Users\Sara Rena Anderson\source\repos\ConsoleApp2TraversyMediaNumGuess\ConsoleApp2TraversyMediaNumGuess\obj\Debug\ConsoleApp2TraversyMediaNumGuess.csproj.CoreCompileInputs.cache
+C:\Users\Sara Rena Anderson\source\repos\ConsoleApp2TraversyMediaNumGuess\ConsoleApp2TraversyMediaNumGuess\obj\Debug\ConsoleApp2TraversyMediaNumGuess.exe
+C:\Users\Sara Rena Anderson\source\repos\ConsoleApp2TraversyMediaNumGuess\ConsoleApp2TraversyMediaNumGuess\obj\Debug\ConsoleApp2TraversyMediaNumGuess.pdb
